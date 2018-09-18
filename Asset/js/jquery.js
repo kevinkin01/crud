@@ -1,0 +1,1 @@
+$( "#alert" ).fadeToggle( "slow", "linear" );
